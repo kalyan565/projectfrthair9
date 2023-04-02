@@ -7,7 +7,7 @@ This is a web based application developed for hair related based website in indi
 
 
 **Project Link** - https://thankful-hill-0d712a500.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://drive.google.com/file/d/1aRGGwudYm2mg3ZcOCAKf0h6Lpy8fGUQH/view?usp=sharing
 
 ## Azure technologies used for Project
 
