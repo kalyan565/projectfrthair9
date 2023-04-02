@@ -6,7 +6,8 @@ This is a web based application developed for hair related based website in indi
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://thankful-hill-0d712a500.2.azurestaticapps.net/
+**Project Link** - https://thankful-hill-0d712a500.2.azurestaticapps.net/                            
+
 
 **project demo video link** - https://drive.google.com/file/d/1aRGGwudYm2mg3ZcOCAKf0h6Lpy8fGUQH/view?usp=sharing
 
