@@ -23,7 +23,7 @@ This is a web based application developed for hair related based website in indi
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About, Contact, Portfolio, Hair related information etc.
 - User can know about hair related information through this website.
-- 
+
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/115457031/229346616-166a194c-1fef-4b10-bebc-7b9dd7c33244.png)
